@@ -47,4 +47,4 @@ You can view the live version of this project here:
 
 ## ## Credits
 
-> **Made With <3 By Amr Khaled**[cite: 1]
+> **Made With <3 By Amr Khaled**
